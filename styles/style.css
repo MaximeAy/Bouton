@@ -1,0 +1,55 @@
+c.navbar{
+    background-color:#CE0033;
+}
+h2{
+    color: white;
+    justify-content: center;
+}
+.bouton{
+    border: white 2px solid;
+    background-color: rgb(212, 177, 177);
+    color: white;
+}
+.col-form-label{
+    font-weight: bold;
+}
+.border{
+    border: 5px solid red;
+}
+form:hover form{
+    background-color: white;
+}
+h1{
+    color:#CE0033 ;
+    font-size: 5vh;
+}
+h3{
+    background-color:#CE0033  ;
+    color: white;
+}
+footer{
+   
+    background-color:#CE0033  ;
+}
+.paragraph{
+    color: white;
+    font-size: 15vh;
+     background-color:#CE0033;
+}
+.paragraph1{
+    color: white;
+    font-size: 2vh;
+    background-color:#CE0033;
+}
+.sectright{
+    height: 80vh;
+    background-color: #CE0033;
+}
+table{
+    background-color:gray;
+    margin-top:40px;
+    margin: 15px 15px 15px 15px;
+}
+.btn .btn-info{
+    margin-left: 25px;
+}

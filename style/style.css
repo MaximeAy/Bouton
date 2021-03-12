@@ -1,0 +1,33 @@
+.navbar{
+    background-color:#CE0033;
+}
+h2{
+    color: white;
+    justify-content: center;
+}
+.bouton{
+    border: white 2px solid;
+    background-color: rgb(212, 177, 177);
+    color: white;
+}
+h1{
+    color:#CE0033 ;
+    font-size: 5vh;
+}
+h3{
+    background-color:#CE0033  ;
+    color: white;
+}
+footer{
+    height: 200px;
+    background-color:#CE0033  ;
+    margin-top: 60px;
+}
+.paragraph{
+    color: white;
+    font-size: 15vh;
+}
+.paragraph1{
+    color: white;
+    font-size: 2vh;
+}
